@@ -1,7 +1,7 @@
 # projects
 📁 A curated collection of my frontend, React, backend and MERN stack projects built while learning.
 
-# 🧠 Web Development Practice Projects
+# 🧠 Web Development Projects
 
 This repository contains all my learning and practice projects  
 as I prepare to become a Full Stack Developer (MERN Stack).
